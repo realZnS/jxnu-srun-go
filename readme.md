@@ -1,7 +1,7 @@
 ## 如何使用
 先从 releases 中下载适用于自己系统的可执行文件
 
-直接运行将读取同目录下“config.yml”作为配置文件，参考 [config.yml](https://github.com/realzns/jxnu-srun-go/config.yml)
+直接运行将读取同目录下“config.yml”作为配置文件，参考 [config.yml](https://github.com/realZnS/jxnu-srun-go/blob/master/config.yml)
 ```
 ./srun
 ```
