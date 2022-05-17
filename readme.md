@@ -13,8 +13,10 @@
 ## 自编译
 ```
 git clone https://github.com/realzns/jxnu-srun-go.git && cd jxnu-srun-go
-go build -o srun
+chmod +x build.sh
+./build.sh
 ```
+编译的可执行文件将存放在 ./out 目录下
 ## 免责声明
 本项目仅供个人学习使用，请勿用于违反校规之处。
 ## 致谢

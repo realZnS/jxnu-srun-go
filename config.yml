@@ -6,7 +6,7 @@ password: '123'
 header:
   User-Agent: ['Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36']
 
-  # 以下信息不建议修改，我也不知道是啥
+# 以下信息不建议修改，我也不知道是啥
 n: '200'
 type: '1'
 ac_id: '1'
